@@ -123,8 +123,8 @@
 [url "git@github.com:"]
     insteadOf = https://github.com/
 [url "ssh://stash.netflix.com:7999/"]
-    insteadOf = http://stash.corp.netflix.com/scm/
+    insteadOf = https://stash.corp.netflix.com/scm/
 [url "ssh://stash.netflix.com:7999/"]
-    insteadOf = http://stash.netflix.com/scm/
+    insteadOf = https://stash.netflix.com/scm/
 
 
