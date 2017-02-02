@@ -117,3 +117,6 @@
     markEmptyLines = false
 [merge]
     ff = only
+[user]
+	email = bmalley@netflix.com
+	name = Benjamin Malley

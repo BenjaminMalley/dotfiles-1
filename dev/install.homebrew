@@ -7,7 +7,6 @@ cmake
 gcc
 makedepend
 mercurial
-node
 pkg-config
 postgresql
 python
@@ -15,4 +14,3 @@ python3
 redis
 ruby
 rust
-yarn
