@@ -7,7 +7,6 @@
 	ui = true
 [pull]
     default = current
-	ff = true
 [rebase]
     autosquash = true
 [alias]
@@ -116,7 +115,6 @@
 [diff-so-fancy]
     markEmptyLines = false
 [merge]
-    ff = only
 [user]
     email = bmalley@netflix.com
     name = Benjamin Malley
