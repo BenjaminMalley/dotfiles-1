@@ -1,8 +1,8 @@
-# Danny's dotfiles #
+# Ben's dotfiles #
 
 Opinionated dotfiles repository for Mac OS with zsh and iTerm 2. Including Homebrew, Solarised and oh-my-zsh with the Agnoster theme.
 
-Inspired by Zach Holman's dotfiles - https://github.com/holman/dotfiles.
+Forked from Danny's dotfiles - https://github.com/DanielThomas/dotfiles.
 
 ## Install ##
 
