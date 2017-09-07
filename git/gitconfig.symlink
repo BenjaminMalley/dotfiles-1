@@ -1,10 +1,10 @@
 [include]
-    path = /Users/bmalley/.gitconfig_local
+    path = /Users/benjaminmalley/.gitconfig_local
 [core]
-    excludesfile = /Users/bmalley/.gitignore_global
+    excludesfile = /Users/benjaminmalley/.gitignore_global
     pager = "diff-so-fancy | less --tabs=4 -RFX"
 [color]
-	ui = true
+    ui = true
 [pull]
     default = current
 [rebase]
@@ -116,13 +116,9 @@
     markEmptyLines = false
 [merge]
 [user]
-    email = bmalley@netflix.com
+    email = benjamin.malley@gmail.com
     name = Benjamin Malley
 [url "git@github.com:"]
     insteadOf = https://github.com/
-[url "ssh://stash.netflix.com:7999/"]
-    insteadOf = https://stash.corp.netflix.com/scm/
-[url "ssh://stash.netflix.com:7999/"]
-    insteadOf = https://stash.netflix.com/scm/
 
 
